@@ -201,7 +201,7 @@ me.say_hi()
 
 ---
 
-## 🌟 Current Goals (2025)
+## 🌟 Current Goals (2026)
 ```mermaid
 graph LR
     A[Learn Basics] --> B[Setup Lab]
