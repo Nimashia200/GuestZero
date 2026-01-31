@@ -183,10 +183,10 @@ me.say_hi()
 
 | 📜 Goal | 🎯 Status | 📅 Target |
 |---------|-----------|-----------|
-| Setup Home Lab | 🔄 In Progress | Feb 2025 |
-| Complete SOC Level 1 (THM) | 📝 Planned | Mar 2025 |
-| Build 5 Security Tools | 📝 Planned | Apr 2025 |
-| CompTIA Security+ | 📝 Planned | Jun 2025 |
+| Setup Home Lab | 🔄 In Progress | Feb 2026 |
+| Complete SOC Level 1 (THM) | 📝 Planned | Mar 2026 |
+| Build 5 Security Tools | 📝 Planned | Apr 2026 |
+| CompTIA Security+ | 📝 Planned | Jun 2026 |
 
 </div>
 
